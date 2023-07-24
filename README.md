@@ -2,6 +2,7 @@
 
 
 ## Hello, I'm Kenneth Montoya B! 👋
+<a href="https://wakatime.com/@e75dcd87-5f22-499d-97fd-b588bf8ad88b"><img src="https://wakatime.com/badge/user/e75dcd87-5f22-499d-97fd-b588bf8ad88b.svg" alt="Total time coded since Jan 22 2023" /></a> 
 
 As a passionate and versatile Product Developer, Junior Full Stack Engineer, and Product Designer, I am dedicated to creating innovative and user-centric solutions that bridge the gap between technology and human experience. With a curious mind and an eagerness to learn, I continuously explore new technologies and design principles to enhance my skills and deliver exceptional products.
 
@@ -41,6 +42,7 @@ My design philosophy revolves around creating products that not only look visual
 ### 👩‍💻 Development Approach
 
 As a product developer, I strive to write clean and maintainable code while adhering to industry best practices. I actively seek feedback and continuously iterate to improve the products I build.
+
 
 
 
