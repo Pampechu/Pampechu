@@ -1,4 +1,4 @@
-**👩‍💻 Product Developer | 🌐 Junior Full Stack | 🎨 Product Designer**
+**👩‍💻 Product Designer| 🌐 Junior Full Stack | 🎨 **
 
 
 ## Hello, I'm Kenneth Montoya B! 👋
